@@ -7,6 +7,7 @@ SOFTWARE USED:
     Visual Studio Code (VS Code)
 
 OBJECTIVES:
+
     - Understand what exceptions are and why they occur.
     - Learn how to use try, throw, and catch in C++.
     - Explore how exception handling improves program robustness.
